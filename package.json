@@ -1,0 +1,8 @@
+{
+  "name": "fitrah-tracker",
+  "version": "1.0.0",
+  "description": "Habit Tracker Personal",
+  "scripts": {
+    "start": "serve ."
+  }
+}
